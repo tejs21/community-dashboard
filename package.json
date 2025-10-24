@@ -1,0 +1,31 @@
+{
+  "name": "community-dashboard",
+  "version": "1.0.0",
+  "description": "A responsive community management dashboard built with Next.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "recharts": "^3.3.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^14.3.1",
+    "autoprefixer": "^10.4.18",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
