@@ -2,9 +2,6 @@
 
 This project is a submission for the Junior Developer (Intern) task, built from scratch in one hour. It is a responsive community management dashboard created with Next.js, React, and Tailwind CSS, featuring an interactive search filter and a tested DSA utility function.
 
-## Time Taken
-
-- **Total Time:** [e.g., 55 minutes]
 
 ## Tech Stack
 
